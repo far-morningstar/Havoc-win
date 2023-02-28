@@ -6,21 +6,18 @@
 
 这是一个用于进行渗透测试的框架，将 Client 移植到 Windows 系统上。
 
-## 2、client 移植到 Windows 系统
+## 2、Client 移植到 Windows 系统
 
 ### 2.1、在 Windows 上搭建编译环境
-
-client 是用 Qt5 编写的，工程用 cmake 进行构建，没有使用 linux 系统原生的系统特性，可以进行移植。
+Client 是用 Qt5 编写的，工程用 cmake 进行构建，没有使用 linux 系统原生的系统特性，可以进行移植。
 
 编译需求：
-
 + python 3.10
 + c++20
 + Qt 5
 + spdlog
 
 这里使用 msys2 在Windows 构建编译环境：
-
 ```shell
 # 安装 python3，这里直接就是当前比较新的版本
 pacman -S python

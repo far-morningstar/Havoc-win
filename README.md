@@ -225,7 +225,7 @@ PYTHONPATH C:\Program Files\Python38\Lib
 
 ![](./images/304255715230268.png)
 
-### 2.7、程序打包发布
+### 2.6、程序打包发布
 
 ```
 make

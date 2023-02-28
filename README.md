@@ -2,9 +2,11 @@
 
 ## 1.简介
 
-项目原始地址：[Havoc](https://github.com/HavocFramework/Havoc)
+项目地址：[Havoc](https://github.com/HavocFramework/Havoc)
 
-这是一个用于进行渗透测试的框架，将 Client 移植到 Windows 系统上。
+这是一个用于进行渗透测试的框架，这里将 Client 移植到 Windows 系统上。
+
+项目版本更新较快，注意这篇文档编写的日期是：2023-02-28。
 
 ## 2、Client 移植到 Windows 系统
 
